@@ -1,0 +1,5 @@
+{
+  "name": "Auto RTMP Streamer Command Generator",
+  "description": "A web-based tool to generate FFmpeg commands for looping a video and streaming it to an RTMP endpoint. This app helps users create the correct command to run on their local machine.",
+  "requestFramePermissions": []
+}
